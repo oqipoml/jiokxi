@@ -1,0 +1,2 @@
+https://api.ixiaowai.cn/gqapi/gqapi.php
+https://api.t7g.cn/api/tuku
